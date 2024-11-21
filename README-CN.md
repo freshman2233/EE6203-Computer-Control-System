@@ -204,6 +204,8 @@ Email: freshmanfreshman0011@gmail.com
 
 3.2 离散时间系统的零点
 
+3.3 传递函数
+
 
 
 4 状态转移方程 
