@@ -10,15 +10,13 @@ With a focus on the implementation of digital controllers and deeper topics such
 
 The 6203 exam questions are relatively fixed, and we can find the rules of solving the questions from the past 15 to 23 years.
 
-This repository serves as a comprehensive resource for students and enthusiasts alike. 
+### What You’ll Find Here:
 
-1. **Personal Solutions to Past Exams** – Detailed, step-by-step write-ups of previously tested questions to guide your revision and deepen conceptual understanding.
-2. **PPT Example References** – Walkthroughs of example problems and exercises presented in the lecture slides, clarifying key ideas and methodologies.
-3. **Analysis of Challenging Topics** – In-depth discussions and breakdowns of complex areas, helping you navigate common pitfalls and master advanced concepts.
+- **Personal Solutions to Past Exams** – Step-by-step solutions to previous exam questions to aid your understanding and preparation.
+- **Lecture PPT Example References** – Detailed walkthroughs of key examples and exercises presented in lecture slides.
+- **Analysis of Challenging Topics** – In-depth explanations of complex concepts to help you navigate difficult areas with ease.
 
-Accompanying the lectures is a curated GitHub repository offering step-by-step solutions to past examinations, example problems drawn from lecture PPTs, and in-depth discussions of challenging areas. Students can use these resources to reinforce their understanding, prepare for exams, and develop proficiency in every aspect of computer control system design.
-
-If you happen to have a GitHub account and find this repository helpful, **please consider giving it a star⭐**.	
+If you find this repository useful, please consider **starring⭐ it on GitHub** to show your support!
 
 ![2-min](./README.assets/2-min.jpg)
 
